@@ -61,9 +61,9 @@ export function initIconCache() {
 
 	// This function needs to be called after index.js loads to give the
 	// application time to modify __webpack_public_path__ with a CDN path
-	const carbonPublicPath = (window as any).__carbon_public_path__;
-	if (carbonPublicPath) {
-	iconRoot = carbonPublicPath + 'img/icons/';
+	const publicPath = (window as any).__carbon_public_path__;
+	if (publicPath) {
+	iconRoot = publicPath + 'img/icons/';
 	}	
 `)
 
