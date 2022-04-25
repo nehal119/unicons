@@ -9,7 +9,7 @@ fs.readdir(directoryPath, function (err, files) {
     stream.once('open', function(fd) {
       files.forEach(function (file) {
         // stream.write("'" + file + "',\n");
-        stream.write("tabler/" + file.split('.svg')[0] + "\n");
+        stream.write("default/" + file.split('.svg')[0] + "\n");
       });
       stream.end();
     });
