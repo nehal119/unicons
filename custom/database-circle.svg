@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="35.09" height="35.09" viewBox="0 0 35.09 35.09">
-  <g id="Group_237" data-name="Group 237" transform="translate(-15188 17429)">
-    <g id="database" transform="translate(15194 -17423)">
-      <path id="Path_3646" data-name="Path 3646" d="M0,0H24V24H0Z" fill="none"/>
-      <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="8" cy="3" rx="8" ry="3" transform="translate(4 3)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-      <path id="Path_3647" data-name="Path 3647" d="M4,6v6c0,1.657,3.582,3,8,3s8-1.343,8-3V6" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-      <path id="Path_3648" data-name="Path 3648" d="M4,12v6c0,1.657,3.582,3,8,3s8-1.343,8-3V12" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-    </g>
-    <g id="Ellipse_15" data-name="Ellipse 15" transform="translate(15188 -17429)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2">
-      <ellipse cx="17.545" cy="17.545" rx="17.545" ry="17.545" stroke="none"/>
-      <ellipse cx="17.545" cy="17.545" rx="16.545" ry="16.545" fill="none"/>
-    </g>
-  </g>
-</svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 143.53 119.04"><defs><style>.cls-1{fill:#131716;}.cls-2{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.5px;}</style></defs><title>database</title><path class="cls-1" d="M174.58,72a59.52,59.52,0,1,0,0,78.63l39.32-39.31Zm-44.85,89.8a50.48,50.48,0,1,1,50.48-50.48h0a50.48,50.48,0,0,1-50.48,50.43Z" transform="translate(-70.37 -51.79)"/><ellipse id="Ellipse_11" data-name="Ellipse 11" class="cls-2" cx="59.66" cy="38.18" rx="28.72" ry="12.31"/><path id="Path_3647" data-name="Path 3647" class="cls-2" d="M100.75,90v22c0,6.07,13.11,11,29.28,11s29.29-4.91,29.29-11V90" transform="translate(-70.37 -51.79)"/><path id="Path_3648" data-name="Path 3648" class="cls-2" d="M100.75,111.94v22c0,6.07,13.11,11,29.28,11s29.29-4.92,29.29-11v-22" transform="translate(-70.37 -51.79)"/></svg>
