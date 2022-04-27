@@ -1756,12 +1756,6 @@ import u2744 from '!!raw-loader!../../../../../public/img/icons/default/zoom-in.
 import u2745 from '!!raw-loader!../../../../../public/img/icons/default/zoom-money.svg';
 import u2746 from '!!raw-loader!../../../../../public/img/icons/default/zoom-out.svg';
 import u2747 from '!!raw-loader!../../../../../public/img/icons/default/zoom-question.svg';
-import u2748 from '!!raw-loader!../../../../../public/img/icons/custom/bell-circle-active.svg';
-import u2749 from '!!raw-loader!../../../../../public/img/icons/custom/bell-circle.svg';
-import u2750 from '!!raw-loader!../../../../../public/img/icons/custom/database-circle-active.svg';
-import u2751 from '!!raw-loader!../../../../../public/img/icons/custom/database-circle.svg';
-import u2752 from '!!raw-loader!../../../../../public/img/icons/custom/process-circle-active.svg';
-import u2753 from '!!raw-loader!../../../../../public/img/icons/custom/process-circle.svg';
 
 export function initIconCache() {
 	cacheInitialized = true;
@@ -3519,10 +3513,4 @@ export function initIconCache() {
   cacheItem(u2745, 'default/zoom-money.svg');
   cacheItem(u2746, 'default/zoom-out.svg');
   cacheItem(u2747, 'default/zoom-question.svg');
-  cacheItem(u2748, 'custom/bell-circle-active.svg');
-  cacheItem(u2749, 'custom/bell-circle.svg');
-  cacheItem(u2750, 'custom/database-circle-active.svg');
-  cacheItem(u2751, 'custom/database-circle.svg');
-  cacheItem(u2752, 'custom/process-circle-active.svg');
-  cacheItem(u2753, 'custom/process-circle.svg');
 }
