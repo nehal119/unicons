@@ -1,3 +1,4 @@
+export const getAvailableIcons = () => [
 '2fa.svg',
 '3d-cube-sphere.svg',
 '3d-rotate.svg',
@@ -1745,3 +1746,4 @@
 'zoom-money.svg',
 'zoom-out.svg',
 'zoom-question.svg',
+  ] as const;
