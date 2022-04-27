@@ -1745,3 +1745,9 @@ default/zoom-in
 default/zoom-money
 default/zoom-out
 default/zoom-question
+custom/bell-active
+custom/bell-circle
+custom/database-active
+custom/database-circle
+custom/process-active
+custom/process-circle
